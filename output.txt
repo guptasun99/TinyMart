@@ -1,0 +1,49 @@
+PS C:\Users\gupta\Downloads\TinyMart> TinyMart.exe
+My Cart
+======
+Cart Owner: John Smith
+
+[Music]
+Product ID: 1   Product Name: Yesterday
+Price: $16.50
+Product Review Rate: 9.8
+Singer Name: Beetles
+Genre: Pop
+
+[Music]
+Product ID: 2   Product Name: We are the World
+Price: $13.75
+Product Review Rate: 9.1
+Singer Name: Michael Jackson
+Genre: Country
+
+[Movie]
+Product ID: 4   Product Name: Sound of Music
+Price: $22.00
+Product Review Rate: 9.2
+Release Year: 1965
+Film Rating: G
+Runtime: 175 mins
+Director Name: Robert Wise
+
+[Movie]
+Product ID: 5   Product Name: Star Wars
+Price: $22.00
+Product Review Rate: 8.5
+Release Year: 1977
+Film Rating: PG
+Runtime: 120 mins
+Director Name: George Lucas
+
+[E book]
+Product ID: 6   Product Name: The Old Man and the Sea
+Price: $8.30
+Product Review Rate: 9.5
+Author: Ernest Hemmingway
+Pages: 127
+
+===== Summary of Purchase ======
+Total number of purchases: 5
+Total purchasing amount: $82.55
+Average cost: $16.51
+PS C:\Users\gupta\Downloads\TinyMart>
